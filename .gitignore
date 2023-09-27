@@ -1,0 +1,6 @@
+.veny
+.vscode
+__pycache__
+*.pyc
+data.db
+.DS_Store
